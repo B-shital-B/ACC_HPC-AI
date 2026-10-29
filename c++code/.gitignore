@@ -1,0 +1,40 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.app
+*.dSYM/
+
+a.out
+
+# Build artifacts
+build/
+dist/
+bin/
+obj/
+
+# IDE/editor files
+.vscode/
+.DS_Store
+
+# Project-specific generated files
+*.log
+*.txt
+
+# Common runtime outputs
+hello
+book
+stud
+area
+calculator
+customer
+employee
+fahrenheit
+paraconst
+2noavg
